@@ -1,0 +1,49 @@
+DEPARTMENT
+if (1)
+{$department="RePurpose Inc";}
+else if (2)
+{$department="PWM";}
+else if (3)
+{$department="MRF";}
+else if (4)
+{$department="Institutional";}
+else if (5)
+{$department="DDT";}
+else if (6)
+{$department="Office";}
+else if (7)
+{$department="EMD";}
+
+TYPE OF REQUEST
+if (1)
+{$type="Replenishment of Revolving Fund";}
+else if (2)
+{$type="Reimbursement";}
+else if (3)
+{$type="Replenishment of Cash";}
+
+EXPENSE TYPE
+if (1)
+{$expense = "Meals";}
+else if (2)
+{$expense = "Commute";}
+else if (3)
+{$expense = "Communication";}
+else if (4)
+{$expense = "Parking";}
+else if (5)
+{$expense = "Gas";}
+else if (6)
+{$expense = "R&M";}
+else if (7)
+{$expense = "Manpower";}
+else if (8)
+{$expense = "Equipment";}
+else if (9)
+{$expense = "Barracks";}
+else if (10)
+{$expense = "Office Suplies";}
+else if (11)
+{$expense = "Ins & Reg";}
+else if (12)
+{$expense = "Others";}
